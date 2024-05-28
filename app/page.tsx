@@ -1,7 +1,7 @@
 import { Metadata } from "next"
 import { Button } from "components/Button/Button"
 import { LP_GRID_ITEMS } from "lp-items"
-
+export const dynamic = 'force-dynamic'
 //Prueba 1
 
 export const metadata: Metadata = {
